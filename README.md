@@ -4,7 +4,7 @@
  The project consists in the comparison of neighborhoods of the two cities and determine how similar or dissimilar they are. These cities will be: Toronto and Buenos Aires
 
 
-##Data 
+## Data 
 
 The main problem with Buenos Aires data that I found is more complex that the JSON files that were used in the previous exercises. In one of the dataset found, the neighborhoods are defined as multipoligon.
 The following are some of the sites that I investigated and may use:
