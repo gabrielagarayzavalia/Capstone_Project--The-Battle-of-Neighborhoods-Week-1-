@@ -1,4 +1,4 @@
-# Capstone_Project--The-Battle-of-Neighborhoods-Week-1-
+# Capstone_Project - The Battle of Neighborhoods (Week 1)
 
 ## Introduction/Business Problem
  The project consists in the comparison of neighborhoods of the two cities and determine how similar or dissimilar they are. These cities will be: Toronto and Buenos Aires
